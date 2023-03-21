@@ -1,2 +1,2 @@
-# Say-Tahmin-oyunu
-python da sayi tahmin oyunu
+# Number-Guessing-game-with-Python------Python-ile-Sayi-Tahmin-oyunu
+
